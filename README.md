@@ -14,21 +14,21 @@ Requisitos mínimos:
 
 Página Home ->
 
-Cabecera con logo, nombre de empresa, menú de navegación (home-category)
-Sección banner
-Sección Categorías : 6 categorías (mínimo una funcional)
-Sección subscripción: Formulario con un input y un botón de validación
+-Cabecera con logo, nombre de empresa, menú de navegación (home-category)
+-Sección banner
+-Sección Categorías : 6 categorías (mínimo una funcional)
+-Sección subscripción: Formulario con un input y un botón de validación
 
 
 Página galería productos ->
 
-Despliegue de 15 cards (mínimo un producto funcional)
+-Despliegue de 15 cards (mínimo un producto funcional)
 
 
 Página detalle de producto ->
 
-Foto principal del producto
-Section detalle del producto
-Botón de añadir al carrito
-Icono de "Me Gusta" funcional
+-Foto principal del producto
+-Section detalle del producto
+-Botón de añadir al carrito
+-Icono de "Me Gusta" funcional
 
